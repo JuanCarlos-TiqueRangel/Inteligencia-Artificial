@@ -12,11 +12,12 @@ The script requires the following libraries to be installed:
 
 # Scripts
 
-[bayesiano.py]{bayesiano.py}
+[bayesiano.py](scripts/bayesiano.py)
 
 After installing the dependencies, run the script `bayesiano.py`. The script reads the iris dataset from scikit-learn and computes the mean and standard deviation of each feature for each of the three iris species: setosa, versicolor, and virginica. It then plots the probability distributions for each feature using a normal distribution function.
 
-[Bayesiano_cancer.py]{bayesiano_cancer.py}
+## important files
+[Bayesiano_cancer.py](scripts/bayesiano.py)
 
 This code is a simple implementation of Naive Bayes classifier to classify cancer tumors as malignant or benign. It uses breast cancer dataset from sklearn library.
 
@@ -26,15 +27,15 @@ After that, the code loads the validation data and calculates the posterior prob
 
 Finally, the code classifies each validation sample based on which posterior probability is greater and stores the classification result in the 'TESTEO' array.
 
-[perceptron_cancer.py]{Inteligencia-Artificial/perceptron_cancer.py}
+[perceptron_cancer.py](scripts/perceptron_cancer.py)
 
 This script implements a logistic regression model for predicting whether a patient's breast tumor is malignant or benign, based on a set of five tumor descriptors. The model is trained on the Breast Cancer Wisconsin (Diagnostic) dataset from scikit-learn, and validated on a subset of the same dataset.
 
-[regresion.py]{Inteligencia-Artificial/regresion.py}
+[regresion.py](scripts/regresion.py)
 
 This code implements a linear regression model to fit data generated from a line with noise. The program generates random data points and plots them, along with the predicted line of best fit. The mean squared error is also calculated to evaluate the quality of the fit.
 
-[iris_plants.py]{Inteligencia-Artificial/iris_plants.py}
+[iris_plants.py](scripts/iris_plants.py)
 
 The script generates two types of plots for each of the four features of the three different types of Iris flowers. The first type of plot displays the feature values for each of the three types of Iris flowers. The second type of plot displays a histogram of the feature values for each of the three types of Iris flowers, along with a normal distribution curve fitted to the data.
 
