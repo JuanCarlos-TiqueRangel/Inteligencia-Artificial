@@ -12,11 +12,11 @@ The script requires the following libraries to be installed:
 
 # Scripts
 
-[bayesiano.py]{bayesiano.py}
+[bayesiano.py]{./bayesiano.py}
 
 After installing the dependencies, run the script `bayesiano.py`. The script reads the iris dataset from scikit-learn and computes the mean and standard deviation of each feature for each of the three iris species: setosa, versicolor, and virginica. It then plots the probability distributions for each feature using a normal distribution function.
 
-[Bayesiano_cancer.py]{Inteligencia-Artificial/bayesiano_cancer.py}
+[Bayesiano_cancer.py]{./bayesiano_cancer.py}
 
 This code is a simple implementation of Naive Bayes classifier to classify cancer tumors as malignant or benign. It uses breast cancer dataset from sklearn library.
 
