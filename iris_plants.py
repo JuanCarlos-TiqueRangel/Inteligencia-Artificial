@@ -24,7 +24,6 @@ rango = np.arange(0, 100, .1)
 info = iris.data[0:50,0]
 info1 = iris.data[50:100,0]
 info2 = iris.data[100:150,0]
-#plt.plot(info,'.',info1,'.',info2,'.')
 
 for i in range(0,4):
     plt.figure(i)
