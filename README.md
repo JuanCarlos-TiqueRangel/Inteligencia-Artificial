@@ -2,7 +2,7 @@
 
 This repository contains code and resources related to the Inteligencia Artificial course at [Universidad de Ibagué](https://www.unibague.edu.co/). This is a Python scripts that uses the Matplotlib and Scikit-learn libraries to visualize data from the sklearn datasets. 
 
-# Dependences
+# Dependencies
 The script requires the following libraries to be installed:
 
 * Matplotlib
