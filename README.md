@@ -38,12 +38,3 @@ This code implements a linear regression model to fit data generated from a line
 [iris_plants.py](scripts/iris_plants.py)
 
 The script generates two types of plots for each of the four features of the three different types of Iris flowers. The first type of plot displays the feature values for each of the three types of Iris flowers. The second type of plot displays a histogram of the feature values for each of the three types of Iris flowers, along with a normal distribution curve fitted to the data.
-
-# Contents 
-
-The repository includes the following directories:
-
-search: contains code for search algorithms, including DFS, BFS, and A*
-genetic: contains code for genetic algorithms, including selection, crossover, and mutation functions
-machine_learning: contains code for various machine learning algorithms, including decision trees, k-nearest neighbors, and neural networks
-games: contains code for games such as Tic Tac Toe and Connect Four, as well as game-playing AI algorithms
